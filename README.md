@@ -13,4 +13,8 @@
 
 - [0x00](./0x00-ES6_basic) : Introduction to ES6.
 - [0x01](./0x01-ES6_promise) : Introduction JavaScript promise.
+- [0x02](./ES6_classes) : Introduction ES6_classes.
+- [0x03](./ES6_data_manipulation) : Introduction ES6_data_manipulations.
+
+- 
 - 
